@@ -6,3 +6,6 @@ out
 
 #todos los archivos .class con el asterisco
 *.class
+
+HolaMundo.class
+
